@@ -645,6 +645,8 @@ p {
 }
 #about .right .right-text {
 	color: var(--secondary-black);
+	/* align: justify; */
+	text-align: justify;
 }
 @media only screen and (max-width: 768px) {
 	#about .wrapper {
